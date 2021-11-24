@@ -1,0 +1,2 @@
+flair==0.8.0.post1
+st-annotated-text
